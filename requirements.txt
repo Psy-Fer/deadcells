@@ -1,0 +1,4 @@
+numpy
+pyslow5
+pod5
+matplotlib
